@@ -14,4 +14,7 @@ I may add some options later to rename them, as well as to rename/specify differ
 YOU WILL NEED FFMPEG.EXE AND FFPROBE.EXE IN THE SAME FOLDER AS THE .PY OR .EXE FOR IT TO WORK.
 I HAVE SUPPLIED BOTH WITHIN THE .RAR FILE
 
+The guide isn't written very professionally, since I assume the only people using this are future officers, so I wrote it to be fun.
+Anyways, if you're one of the future officers, heya!
+
 Guide: https://docs.google.com/document/d/1W1iWFP751SvEwsc_GeCLWagR15ZCUydX1CfKPm_fDxk/edit?usp=sharing
